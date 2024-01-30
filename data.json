@@ -1,0 +1,35 @@
+{
+    "minutes": 6691,
+    "TotalPumpTime": 840,
+    "hours": 12,
+    "TemperatureMinuteArray": [],
+    "HumidityMinuteArray": [],
+    "TemperatureHourArray": [
+        70.94,
+        71.36,
+        71.76,
+        72.47,
+        73.65,
+        75.33,
+        75.32,
+        75.08,
+        74.89,
+        74.71,
+        72.56,
+        72.65
+    ],
+    "HumidityHourArray": [
+        92.34,
+        91.45,
+        90.81,
+        92.09,
+        92.25,
+        91.43,
+        90.67,
+        92.08,
+        92.07,
+        92.18,
+        93.2,
+        92.95
+    ]
+}
